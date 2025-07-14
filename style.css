@@ -269,7 +269,7 @@
     opacity: 1;
   }
   .Work-box:hover img{
-    transform: scale(1.05);
+    transform: scale(.995);
   }
   
   .layer h3 {
